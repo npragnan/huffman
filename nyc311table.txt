@@ -1,4 +1,4 @@
-create table omgfinal(
+hello goof morning create table omgfinal(
 unique_key nvarchar(100),
 created_date nvarchar(200),
 closed_date nvarchar(200),
